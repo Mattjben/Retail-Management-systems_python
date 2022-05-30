@@ -15,7 +15,8 @@ RMS allows users to:
 RMS_OO   
 **Products**:
 - Bundles (contains multiple products)
-- Individual product   
+- Individual product  
+ 
 **Customers**:
 - Cusomter 
 - Member (5% discount rate)
