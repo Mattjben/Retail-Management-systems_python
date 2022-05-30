@@ -12,7 +12,7 @@ RMS allows users to:
 5. reveal the most valuable customers 
 6. display a customers order history
 
-RMS_OO
+RMS_OO   
 **Products**:
 - Bundles (contains multiple products)
 - Individual product   
